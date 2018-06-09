@@ -1,0 +1,8 @@
+passwd
+sudoers
+authorized_keys
+history
+ifconfig
+tcp_dump
+ip6tables
+useradd
